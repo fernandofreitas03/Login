@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    margin-top: 128px;
+    margin-left: 16px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    color: #000000;
+    letter-spacing: 0.41px;
+}
+
+h2 {
+    margin-top: 12px;
+    margin-left: 16px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.41px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+input {
+    margin-top: 102px;
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 48px;
+    width: 343px;
+    border: none;
+    border-radius: 6px;
+    background-color: #F2F2F7;
+    display: block;
+}
+
+.password {
+    margin-top: 12px;
+}
+
+input::placeholder {
+    padding: 13px 291px 13px 14px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.41px;
+    color: #929292;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.41px;
+    color: #007AFF;
+    text-align: right;
+    margin-top: 17px;
+    margin-right: 16px;
+}
+
+button {
+    display: block;
+    height: 48px;
+    cursor: pointer;
+    width: 343px;
+    background: rgba(0, 0, 0, 0.94);
+    border: none;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.41px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 20px 16px auto 16px;
+}
+
+.Sing-up {
+    display: block;
+    margin: 207px 82px 39px 75px;
+    color: rgba(0, 0, 0, 0.51);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+strong {
+    color: #007AFF;
+}
