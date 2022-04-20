@@ -2,7 +2,7 @@
  
 
 
-<img src="../assets/Captura de Tela (32).png" width="300px"  alt="exemplo imagem">
+<img src="./assets/Captura de Tela (32).png" width="200px"  alt="exemplo imagem">
 
 > Resultado do projeto!
 
